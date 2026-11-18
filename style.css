@@ -69,3 +69,13 @@ nav a {
 nav a:hover {
     color: yellow;
 }
+
+
+footer {
+    background-color: #263c5a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
